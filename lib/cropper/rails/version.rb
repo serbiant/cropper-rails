@@ -1,5 +1,5 @@
 module Cropper
   module Rails
-    VERSION = "2.3.2.1"
+    VERSION = "4.0.0.0"
   end
 end
